@@ -9,11 +9,10 @@
 
 ## 專案簡介
 
-writer-skill 是一個專注於**繁體中文出版級潤飾**的技能。它扮演出版社總編輯的角色，對錯字、標點、句子節奏與用詞精準度進行嚴格把關，同時**嚴守內容完整性**，不改變原意與情節。
+writer-skill 讓 AI 助手扮演出版社總編輯，負責繁體中文文章的出版級潤飾。包括錯字修正、標點規範、句子節奏調整和用詞精準度把關，但不改動原文的內容與情節。
 
-本專案適用於：
+適用於：
 - 繁體中文文章的校訂與潤飾
-- 出版級文字品質提升
 - 統一用語、修正標點與節奏
 
 ## 安裝
@@ -95,8 +94,8 @@ git clone https://github.com/lazyjerry/writer-skill ~/.claude/skills/writer-skil
 
 ### 最高原則：內容完整性
 
-- **嚴禁改動內容與情節**：只做語言層面的修正
-- **潤飾而非改寫**：不改變原作者的意圖與畫面
+- 嚴禁改動內容與情節，只做語言層面的修正
+- 潤飾而非改寫，不改變原作者的意圖與畫面
 
 ### 編輯準則（三級優先序）
 
@@ -122,7 +121,7 @@ git clone https://github.com/lazyjerry/writer-skill ~/.claude/skills/writer-skil
 
 ## 輸出格式
 
-輸出**必須且只能**包含兩個部分：
+輸出固定為兩個部分：
 
 ### 修正分析報告
 
@@ -140,9 +139,9 @@ git clone https://github.com/lazyjerry/writer-skill ~/.claude/skills/writer-skil
 
 查看完整的操作測試報告與實際 DEMO 效果：
 
-👉 [查看操作測試報告](https://lazyjerry.github.io/libs/try-humanizer-zh/)
+[查看操作測試報告](https://lazyjerry.github.io/libs/try-humanizer-zh/)
 
-此測試報告展示了典型的校訂流程，包含修正分析與完整校訂文稿的實際範例。
+報告中包含實際的校訂流程範例，可對照修正分析與完整校訂文稿的輸出結果。
 
 ## 檔案說明
 
@@ -152,7 +151,7 @@ git clone https://github.com/lazyjerry/writer-skill ~/.claude/skills/writer-skil
 ## 常見使用情境
 
 - 出版前文字總校
-- 對外公告與正式文件潤飾
+- 對外公告、正式文件潤飾
 - 文章語氣與節奏修整
 
 ## 貢獻
@@ -161,4 +160,4 @@ git clone https://github.com/lazyjerry/writer-skill ~/.claude/skills/writer-skil
 
 ## 授權
 
-本專案遵循原作者與社群共識的使用規範，僅用於文字潤飾與校訂。
+本專案僅用於文字潤飾與校訂。
