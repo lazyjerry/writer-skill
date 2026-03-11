@@ -136,6 +136,14 @@ git clone https://github.com/lazyjerry/writer-skill ~/.claude/skills/writer-skil
 
 僅放置最終完整、乾淨的文本，不包含任何額外註解或說明。
 
+## 操作測試報告
+
+查看完整的操作測試報告與實際 DEMO 效果：
+
+👉 [查看操作測試報告](https://lazyjerry.github.io/libs/try-humanizer-zh/)
+
+此測試報告展示了典型的校訂流程，包含修正分析與完整校訂文稿的實際範例。
+
 ## 檔案說明
 
 - **`SKILL.md`** - 技能定義文件（中文版）
