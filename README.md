@@ -3,7 +3,7 @@
 > **聲明：**
 > - 本專案為自訂的繁體中文潤飾技能
 > - 僅做語言層面的潤飾與校訂，不做內容生成、翻譯、程式碼審查
-> - 不負責去除 AI 痕跡（請改用 humanizer-zh）
+> - 不負責去除 AI 痕跡（請改用 [humanizer-zh](https://github.com/lazyjerry/Humanizer-zh)） 
 
 ---
 
